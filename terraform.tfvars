@@ -1,0 +1,5 @@
+answer_1 = "state"
+answer_2 = "tuple"
+answer_3 = "while"
+answer_4 = "using output values"
+answer_5 = "using .tfvars file"
